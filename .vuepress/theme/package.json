@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-theme-reco",
+  "version": "1.6.11",
+  "description": "A simple and beautiful vuepress Blog & Doc theme.",
+  "keywords": [
+    "vuepress",
+    "vue",
+    "theme"
+  ],
+  "homepage": "https://vuepress-theme-reco.recoluan.com",
+  "bugs": {
+    "url": "https://github.com/vuepress-reco/vuepress-theme-reco/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuepress-reco/vuepress-theme-reco.git"
+  },
+  "license": "MIT",
+  "author": "reco_luan",
+  "main": "index.js",
+  "gitHead": "c3a1db8487bece9341b6269a0f6ebf910cd5462a",
+  "_from": "vuepress-theme-reco@0.2.1",
+  "_resolved": "https://registry.npmmirror.com/vuepress-theme-reco/download/vuepress-theme-reco-0.2.1.tgz"
+}
